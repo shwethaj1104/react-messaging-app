@@ -1,1 +1,1 @@
-# React-messaging-app
+# React messaging app
